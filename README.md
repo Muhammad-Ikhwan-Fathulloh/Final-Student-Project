@@ -1,4 +1,8 @@
-# Template-Final-Project-Data-Structure
+# Judul Proyek
+<ul>
+  <li>Mata Kuliah: Struktur Data</li>
+  <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
+</ul>
 
 <ul>
   <li>Kelompok: {kelompok}</li>

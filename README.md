@@ -10,3 +10,18 @@
     <li>{anggota_lainnya}</li>
   </ul>
 </ul>
+
+## Penjelasan Proyek
+<p>Lorem ipsum sir dolor amet.</p>
+
+## Komponen Proyek
+<p>Lorem ipsum sir dolor amet.</p>
+
+## Pembagian Tim
+<p>Lorem ipsum sir dolor amet.</p>
+
+## Demo Proyek
+<ul>
+  <li>Github: {github}</li>
+  <li>Youtube: {youtube}</li>
+</ul>

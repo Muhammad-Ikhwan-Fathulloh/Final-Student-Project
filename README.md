@@ -1,4 +1,4 @@
-# Judul Proyek
+# Final Proyek Struktur Data
 <ul>
   <li>Mata Kuliah: Struktur Data</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
@@ -14,6 +14,8 @@
     <li>{anggota_lainnya}</li>
   </ul>
 </ul>
+## Judul Proyek
+<p>Lorem ipsum sir dolor amet.</p>
 
 ## Penjelasan Proyek
 <p>Lorem ipsum sir dolor amet.</p>

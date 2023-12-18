@@ -9,9 +9,9 @@
   <li>Proyek: {proyek}</li>
   <li>Anggota:</li>
   <ul>
-    <li>{anggota_1}</li>
-    <li>{anggota_2}</li>
-    <li>{anggota_lainnya}</li>
+    <li>Ketua: <a href="">Ketua</a></li>
+    <li>Anggota 1: <a href="">Anggota 1</a></li>
+    <li>Anggota 2: <a href="">Anggota 2</a></li>
   </ul>
 </ul>
 ## Judul Proyek
@@ -28,6 +28,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: {github}</li>
-  <li>Youtube: {youtube}</li>
+  <li>Github: <a href="">Github</a></li>
+  <li>Youtube: <a href="">Youtube</a></li>
 </ul>

@@ -19,7 +19,7 @@
     <li>Riwayat Transaksi</li>
     <li>Cetak Struk</li>
   </ul>
-  <li>Sistem Puskesmas</li>
+  <li>Sistem Puskesmas <br>Spesifikasi:</li>
   <ul>
     <li>Pasien</li>
     <li>Dokter</li>
@@ -27,7 +27,7 @@
     <li>Antrian</li>
     <li>Kesehatan</li>
   </ul>
-  <li>Sistem Kursus</li>
+  <li>Sistem Kursus <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Pelajaran</li>
@@ -35,7 +35,7 @@
     <li>Transaksi</li>
     <li>Riwayat Kursus</li>
   </ul>
-  <li>Sistem Konser</li>
+  <li>Sistem Konser <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Konser</li>
@@ -43,7 +43,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
-  <li>Sistem Bioskop</li>
+  <li>Sistem Bioskop <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Film</li>
@@ -51,7 +51,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
-  <li>Sistem Voting</li>
+  <li>Sistem Voting <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Kategori</li>
@@ -59,7 +59,7 @@
     <li>Vote</li>
     <li>Riwayat Vote</li>
   </ul>
-  <li>Sistem Manajemen Gudang</li>
+  <li>Sistem Manajemen Gudang <br>Spesifikasi:</li>
   <ul>
     <li>Pembelian</li>
     <li>Barang Masuk</li>
@@ -67,7 +67,7 @@
     <li>Penjualan</li>
     <li>Riwayat Barang</li>
   </ul>
-  <li>Sistem Kuis</li>
+  <li>Sistem Kuis <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Kategori Soal</li>
@@ -75,7 +75,7 @@
     <li>Jawaban Peserta</li>
     <li>Nilai Peserta</li>
   </ul>
-  <li>Sistem Rental</li>
+  <li>Sistem Rental <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Peminjaman</li>
@@ -83,7 +83,7 @@
     <li>Kartu Peminjaman untuk Diskon</li>
     <li>Riwayat Peminjaman</li>
   </ul>
-  <li>Sistem Reservasi</li>
+  <li>Sistem Reservasi <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
     <li>Kamar</li>
@@ -91,7 +91,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
-  <li>Sistem Bansos</li>
+  <li>Sistem Bansos <br>Spesifikasi:</li>
   <ul>
     <li>Penduduk</li>
     <li>Pekerjaan</li>
@@ -99,7 +99,7 @@
     <li>Pengelempokkan Bansos</li>
     <li>Riwayat Distribusi</li>
   </ul>
-  <li>Sistem Catatan Harian</li>
+  <li>Sistem Catatan Harian <br>Spesifikasi:</li>
   <ul>
     <li>Kategori</li>
     <li>Catatan</li>

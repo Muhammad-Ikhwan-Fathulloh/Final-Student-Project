@@ -24,7 +24,7 @@
     <li>Pasien</li>
     <li>Dokter</li>
     <li>Poli</li>
-    <li>Antrian</li>
+    <li>Antrian Prioritas</li>
     <li>Kesehatan</li>
   </ul>
   <li>Sistem Kursus <br>Spesifikasi:</li>
@@ -62,8 +62,8 @@
   <li>Sistem Manajemen Gudang <br>Spesifikasi:</li>
   <ul>
     <li>Pembelian</li>
-    <li>Barang Masuk</li>
-    <li>Barang Keluar</li>
+    <li>Barang Masuk & Keluar</li>
+    <li>Pengurutan Barang</li>
     <li>Penjualan</li>
     <li>Riwayat Barang</li>
   </ul>

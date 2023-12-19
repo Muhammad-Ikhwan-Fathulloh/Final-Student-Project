@@ -11,5 +11,5 @@
 
 ## Template Dokumentasi Final Proyek
 <ul>
-  <li><a href="">Template Dokumentasi</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/tree/main/Template-Documentation">Template Dokumentasi</a></li>
 </ul>

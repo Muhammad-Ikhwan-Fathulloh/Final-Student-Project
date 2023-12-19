@@ -12,5 +12,5 @@
 ## Template Dokumentasi Final Proyek
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Ganjil/Algoritm%26Programming1/Readme.md">Template Dokumentasi Mata Kuliah Algoritma & Pemograman 1</a></li>
-  <li><a href="">Template Dokumentasi Mata Kuliah Struktur Data</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Ganjil/DataStructure/Readme.md">Template Dokumentasi Mata Kuliah Struktur Data</a></li>
 </ul>

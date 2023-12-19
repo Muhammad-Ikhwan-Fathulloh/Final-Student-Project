@@ -12,6 +12,7 @@
 ## Ide Final Proyek
 <ul>
   <li>Sistem Penjualan</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Pembelian</li>
     <li>Barang dengan ditambah (Promo, Diskon)</li>
@@ -20,6 +21,7 @@
     <li>Cetak Struk</li>
   </ul>
   <li>Sistem Puskesmas</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Pasien</li>
     <li>Dokter</li>
@@ -28,6 +30,7 @@
     <li>Kesehatan</li>
   </ul>
   <li>Sistem Kursus</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Pelajaran</li>
@@ -36,6 +39,7 @@
     <li>Riwayat Kursus</li>
   </ul>
   <li>Sistem Konser</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Konser</li>
@@ -44,6 +48,7 @@
     <li>Riwayat Transaksi</li>
   </ul>
   <li>Sistem Bioskop</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Film</li>
@@ -52,6 +57,7 @@
     <li>Riwayat Transaksi</li>
   </ul>
   <li>Sistem Voting</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Kategori</li>
@@ -60,6 +66,7 @@
     <li>Riwayat Vote</li>
   </ul>
   <li>Sistem Manajemen Gudang</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Pembelian</li>
     <li>Barang Masuk</li>
@@ -68,6 +75,7 @@
     <li>Riwayat Barang</li>
   </ul>
   <li>Sistem Kuis</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Kategori Soal</li>
@@ -76,6 +84,7 @@
     <li>Nilai Peserta</li>
   </ul>
   <li>Sistem Rental</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Peminjaman</li>
@@ -84,6 +93,7 @@
     <li>Riwayat Peminjaman</li>
   </ul>
   <li>Sistem Reservasi</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Peserta</li>
     <li>Kamar</li>
@@ -92,6 +102,7 @@
     <li>Riwayat Transaksi</li>
   </ul>
   <li>Sistem Bansos</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Penduduk</li>
     <li>Pekerjaan</li>
@@ -100,6 +111,7 @@
     <li>Riwayat Distribusi</li>
   </ul>
   <li>Sistem Catatan Harian</li>
+  <p>Spesifikasi:</p>
   <ul>
     <li>Kategori</li>
     <li>Catatan</li>

@@ -11,5 +11,6 @@
 
 ## Template Dokumentasi Final Proyek
 <ul>
-  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/tree/main/Template-Documentation">Template Dokumentasi</a></li>
+  <li><a href="">Template Dokumentasi Mata Kuliah Algoritma & Pemograman 1</a></li>
+  <li><a href="">Template Dokumentasi Mata Kuliah Struktur Data</a></li>
 </ul>

@@ -25,6 +25,20 @@
   <li>Sistem Reservasi</li>
 </ul>
 
+## Ketentuan Final Proyek
+<ul>
+  <li>Mata Kuliah Algoritma & Pemograman 1</li>
+  <ul>
+    <li>Menerapkan minimal 5 materi perkuliahan</li>
+    <li>Membuat dokumentasi proyek dengan 3 notasi algoritma (Deskripsi, Pseudocode, dan Flowchart)</li>
+  </ul>
+  <li>Mata Kuliah Struktur Data</li>
+  <ul>
+    <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi Struktur Data</li>
+    <li>Membuat dokumentasi proyek</li>
+  </ul>
+</ul>
+
 ## Template Dokumentasi Final Proyek
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Ganjil/Algoritm%26Programming1/Readme.md">Template Dokumentasi Mata Kuliah Algoritma & Pemograman 1</a></li>

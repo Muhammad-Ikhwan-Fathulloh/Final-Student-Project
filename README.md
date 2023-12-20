@@ -118,7 +118,7 @@
   </ul>
   <li>Mata Kuliah Struktur Data</li>
   <ul>
-    <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi Struktur Data</li>
+    <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi 5 Struktur Data</li>
     <li>Membuat dokumentasi proyek</li>
   </ul>
 </ul>

@@ -127,6 +127,7 @@
     <li>Menerapkan minimal 5 materi perkuliahan</li>
     <li>Membuat dokumentasi proyek dengan 3 notasi algoritma (Deskripsi, Pseudocode, dan Flowchart)</li>
   </ul>
+  <br>
   <li>Mata Kuliah Struktur Data</li>
   <ul>
     <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi 5 Struktur Data</li>

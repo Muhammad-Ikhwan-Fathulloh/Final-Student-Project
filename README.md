@@ -28,6 +28,7 @@
     <li>Antrian Prioritas</li>
     <li>Riwayat Kesehatan</li>
   </ul>
+  <br>
   <li>Sistem Kursus <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -36,6 +37,7 @@
     <li>Transaksi</li>
     <li>Riwayat Kursus</li>
   </ul>
+  <br>
   <li>Sistem Konser <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -44,6 +46,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
+  <br>
   <li>Sistem Bioskop <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -52,6 +55,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
+  <br>
   <li>Sistem Voting <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -60,6 +64,7 @@
     <li>Vote</li>
     <li>Riwayat Vote</li>
   </ul>
+  <br>
   <li>Sistem Manajemen Gudang <br>Spesifikasi:</li>
   <ul>
     <li>Pembelian</li>
@@ -68,6 +73,7 @@
     <li>Penjualan</li>
     <li>Riwayat Barang</li>
   </ul>
+  <br>
   <li>Sistem Kuis <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -76,6 +82,7 @@
     <li>Jawaban Peserta</li>
     <li>Nilai Peserta</li>
   </ul>
+  <br>
   <li>Sistem Rental <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -84,6 +91,7 @@
     <li>Kartu Peminjaman untuk Diskon</li>
     <li>Riwayat Peminjaman</li>
   </ul>
+  <br>
   <li>Sistem Reservasi <br>Spesifikasi:</li>
   <ul>
     <li>Peserta</li>
@@ -92,6 +100,7 @@
     <li>Transaksi</li>
     <li>Riwayat Transaksi</li>
   </ul>
+  <br>
   <li>Sistem Bansos <br>Spesifikasi:</li>
   <ul>
     <li>Penduduk</li>
@@ -100,6 +109,7 @@
     <li>Pengelempokkan Bansos</li>
     <li>Riwayat Distribusi</li>
   </ul>
+  <br>
   <li>Sistem Catatan Harian <br>Spesifikasi:</li>
   <ul>
     <li>Kategori</li>

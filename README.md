@@ -19,13 +19,14 @@
     <li>Riwayat Transaksi</li>
     <li>Cetak Struk</li>
   </ul>
+  <br>
   <li>Sistem Puskesmas <br>Spesifikasi:</li>
   <ul>
     <li>Pasien</li>
     <li>Dokter</li>
     <li>Poli</li>
     <li>Antrian Prioritas</li>
-    <li>Kesehatan</li>
+    <li>Riwayat Kesehatan</li>
   </ul>
   <li>Sistem Kursus <br>Spesifikasi:</li>
   <ul>

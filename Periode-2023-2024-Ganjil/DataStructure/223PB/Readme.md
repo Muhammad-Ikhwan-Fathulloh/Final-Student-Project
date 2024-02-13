@@ -13,7 +13,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 2 (Judul Proyek)
+## Kelompok 2 (Sistem Penjualan)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -22,7 +22,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 3 (Judul Proyek)
+## Kelompok 3 (Sistem Voting)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -31,7 +31,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 4 (Judul Proyek)
+## Kelompok 4 (Sistem Konser)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -40,7 +40,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 5 (Judul Proyek)
+## Kelompok 5 (Sistem Bioskop)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -49,7 +49,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 6 (Judul Proyek)
+## Kelompok 6 (Sewa Kost)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -67,7 +67,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 8 (Judul Proyek)
+## Kelompok 8 (Manajemen Gudang)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -76,7 +76,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 9 (Judul Proyek)
+## Kelompok 9 (Sistem Bioskop)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -85,7 +85,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 10 (Judul Proyek)
+## Kelompok 10 (Sistem Bansos)
 
 <p>Lorem ipsum sir dolor amet.</p>
 
@@ -94,7 +94,7 @@
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
 
-## Kelompok 11 (Judul Proyek)
+## Kelompok 11 (Sistem Puskesmas)
 
 <p>Lorem ipsum sir dolor amet.</p>
 

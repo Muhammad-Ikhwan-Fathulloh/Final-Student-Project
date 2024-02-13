@@ -4,9 +4,9 @@
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
-## Kelompok 1 (Judul Proyek)
+## Kelompok 1 (Sistem Kursus)
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/Ibnu12-crocodile/StrukturData">Github</a></li>
 </ul>
 
 ## Kelompok 2 (Judul Proyek)
@@ -24,9 +24,9 @@
   <li>Github: <a href="https://github.com/Salz30/Tugas-besar-struktur-data">Github</a></li>
 </ul>
 
-## Kelompok 5 (Sistem Kursus)
+## Kelompok 5 (Judul Proyek)
 <ul>
-  <li>Github: <a href="https://github.com/Ibnu12-crocodile/StrukturData">Github</a></li>
+  <li>Github: <a href="">Github</a></li>
 </ul>
 
 ## Kelompok 6 (Sistem Kuis)

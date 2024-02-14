@@ -4,9 +4,9 @@
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
-## Kelompok 1 (Judul Proyek)
+## Kelompok 1 (Sistem Kuis)
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/nadhifsheva/Aplikasi-Sistem-Kuis">Github</a></li>
 </ul>
 
 ## Kelompok 2 (Sistem Penjualan)
@@ -34,9 +34,9 @@
   <li>Github: <a href="https://github.com/FauziRikhsana/StrukturData_6_SewaKost">Github</a></li>
 </ul>
 
-## Kelompok 7 (Judul Proyek)
+## Kelompok 7 (Sistem Reservasi)
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi">Github</a></li>
 </ul>
 
 ## Kelompok 8 (Manajemen Gudang)

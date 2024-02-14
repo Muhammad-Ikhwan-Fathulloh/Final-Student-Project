@@ -61,5 +61,5 @@
 
 ## Kelompok 12 (Judul Proyek)
 <ul>
-  <li>Github: <a href="">Github</a></li>
+  <li>Github: <a href="https://github.com/akbardarmawan/tubes">Github</a></li>
 </ul>

@@ -59,7 +59,7 @@
   <li>Github: <a href="https://github.com/HarsyaVilardi/Sistem-Puskesmas1">Github</a></li>
 </ul>
 
-## Kelompok 12 (Judul Proyek)
+## Kelompok 12 (Sistem Kursus)
 <ul>
   <li>Github: <a href="https://github.com/akbardarmawan/tubes">Github</a></li>
 </ul>

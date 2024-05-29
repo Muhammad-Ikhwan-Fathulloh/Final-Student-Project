@@ -7,9 +7,11 @@
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank">Mata Kuliah Algoritma & Pemograman 1</a></li>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank">Mata Kuliah Struktur Data</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Web-Programming-2-Course-Bank">Mata Kuliah Pemograman Web 2</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Microcontroller-Course-Bank">Mata Kuliah Mikrokontroller</a></li>
 </ul>
 
-## Ide Final Proyek
+## Ide Final Proyek (Khusus Software)
 <ul>
   <li>Sistem Penjualan <br>Spesifikasi:</li>
   <ul>
@@ -120,6 +122,9 @@
   </ul>
 </ul>
 
+## Ide Final Proyek (Khusus Hardware)
+Coming Soon
+
 ## Ketentuan Final Proyek
 <ul>
   <li>Mata Kuliah Algoritma & Pemograman 1</li>
@@ -133,10 +138,22 @@
     <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi 5 Struktur Data</li>
     <li>Membuat dokumentasi proyek</li>
   </ul>
+  <li>Mata Kuliah Pemograman Web 2</li>
+  <ul>
+    <li>Menggunakan Framework Laravel, Jika ingin menerapkan Rest API gunakan Vue JS/React JS</li>
+    <li>Membuat dokumentasi proyek</li>
+  </ul>
+  <li>Mata Kuliah Mikrokontroller</li>
+  <ul>
+    <li>Integrasi Internet of Things dengan Protokol HTTP/MQTT (Pilih salah satu aja), Terapkan PWM dan ADC</li>
+    <li>Membuat dokumentasi proyek</li>
+  </ul>
 </ul>
 
 ## Template Dokumentasi Final Proyek
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Ganjil/Algoritm%26Programming1/Readme.md">Template Dokumentasi Mata Kuliah Algoritma & Pemograman 1</a></li>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Ganjil/DataStructure/Readme.md">Template Dokumentasi Mata Kuliah Struktur Data</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Genap/WebProgramming2/Readme.md">Template Dokumentasi Mata Kuliah Pemograman Web 2</a></li>
+  <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Final-Student-Project/blob/main/Periode-2023-2024-Genap/Microcontroller/Readme.md">Template Dokumentasi Mata Kuliah Mikrokontroller</a></li>
 </ul>

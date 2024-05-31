@@ -112,7 +112,7 @@
     <li>Riwayat Distribusi</li>
   </ul>
   <br>
-  <li>Sistem Catatan Harian <br>Spesifikasi:</li>
+  <li>Sistem Catatan Harian (Untuk Final Proyek Web Tidak diperkenankan) <br>Spesifikasi:</li>
   <ul>
     <li>Kategori</li>
     <li>Catatan</li>
@@ -123,7 +123,32 @@
 </ul>
 
 ## Ide Final Proyek (Khusus Hardware)
-Coming Soon
+<ul>
+  <li>Smarthome dengan Platform Blynk <br>Spesifikasi:</li>
+  <ul>
+    <li>Gunakan Platform Blynk</li>
+    <li>Relay 2 Channel untuk menyalakan LED</li>
+    <li>Gunakan Potensiometer untuk atur kecerahan LED dengan PWM</li>
+    <li>DHT22 atur dengan ADC</li>
+    <li>Buatkan prediksi dengan kondisi suhu dan kelembapan</li>
+  </ul>
+  <br>
+  <li>Smarthome dengan Restfull API <br>Spesifikasi:</li>
+  <ul>
+    <li>Gunakan <a href="https://mockapi.io/">Mock API</a> sebagai Restfull API</li>
+    <li>Buatkan tampilan website dengan html, css atau framework css, dan js</li>
+    <li>Relay 2 Channel untuk menyalakan LED</li>
+    <li>Sensor bebas</li>
+  </ul>
+  <br>
+  <li>Smarthome dengan MQTT <br>Spesifikasi:</li>
+  <ul>
+    <li>Gunakan <a href="https://www.emqx.com/en">EMQX</a> sebagai MQTT</li>
+    <li>Buatkan tampilan website dengan html, css atau framework css, dan js</li>
+    <li>Relay 2 Channel untuk menyalakan LED</li>
+    <li>Sensor bebas</li>
+  </ul>
+</ul>
 
 ## Ketentuan Final Proyek
 <ul>

@@ -6,9 +6,13 @@
 ## Bahan Pengajaran
 <ul>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Algorithm-and-Programming-1-Course-Bank">Mata Kuliah Algoritma & Pemograman 1</a></li>
+  <br>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Data-Structure-Course-Bank">Mata Kuliah Struktur Data</a></li>
+  <br>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Web-Programming-1-Course-Bank">Mata Kuliah Pemograman Web 1</a></li>
+  <br>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Web-Programming-2-Course-Bank">Mata Kuliah Pemograman Web 2</a></li>
+  <br>
   <li><a href="https://github.com/Muhammad-Ikhwan-Fathulloh/Microcontroller-Course-Bank">Mata Kuliah Mikrokontroller</a></li>
 </ul>
 
@@ -164,11 +168,13 @@
     <li>Menerapkan minimal 5 materi perkuliahan terutama implementasi 5 Struktur Data</li>
     <li>Membuat dokumentasi proyek</li>
   </ul>
+  <br>
   <li>Mata Kuliah Pemograman Web 2</li>
   <ul>
     <li>Menggunakan Framework Laravel, Jika ingin menerapkan Rest API gunakan Vue JS/React JS</li>
     <li>Membuat dokumentasi proyek</li>
   </ul>
+  <br>
   <li>Mata Kuliah Mikrokontroller</li>
   <ul>
     <li>Integrasi Internet of Things dengan Protokol HTTP/MQTT (Pilih salah satu aja), Terapkan PWM dan ADC</li>

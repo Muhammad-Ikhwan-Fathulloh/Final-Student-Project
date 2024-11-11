@@ -1,6 +1,6 @@
-# Final Proyek Algoritma & Pemrograman 1
+# Final Proyel Pemrograman Berorientasi Obyek 1
 <ul>
-  <li>Mata Kuliah: Algoritma & Pemrograman 1</li>
+  <li>Mata Kuliah: Pemrograman Berorientasi Obyek 1</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 

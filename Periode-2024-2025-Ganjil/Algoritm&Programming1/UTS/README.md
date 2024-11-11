@@ -1,6 +1,6 @@
-# UTS Pemrograman Berorientasi Obyek 1
+# UTS Algoritma & Pemrograman 1
 <ul>
-  <li>Mata Kuliah: Pemrograman Berorientasi Obyek 1</li>
+  <li>Mata Kuliah: Algoritma & Pemrograman 1</li>
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 

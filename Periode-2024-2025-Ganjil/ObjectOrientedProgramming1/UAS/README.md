@@ -36,6 +36,9 @@
 ### 4. Abstract
 <p>Lorem ipsum sir dolor amet.</p>
 
+## Struktur Tabel Aplikasi
+<p>Lorem ipsum sir dolor amet.</p>
+
 ## Tampilan Aplikasi
 <p>Lorem ipsum sir dolor amet.</p>
 

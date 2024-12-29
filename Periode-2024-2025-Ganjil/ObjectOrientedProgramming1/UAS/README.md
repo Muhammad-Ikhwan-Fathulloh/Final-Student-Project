@@ -4,11 +4,16 @@
   <li>Dosen Pengampu: <a href="https://github.com/Muhammad-Ikhwan-Fathulloh">Muhammad Ikhwan Fathulloh</a></li>
 </ul>
 
-## Profil
+## Kelompok
 <ul>
-  <li>Nama: {nama}</li>
-  <li>NIM: {nim}</li>
-  <li>Studi Kasus: {studi kasus}</li>
+  <li>Kelompok: {kelompok}</li>
+  <li>Proyek: {proyek}</li>
+  <li>Anggota:</li>
+  <ul>
+    <li>Ketua: <a href="">Ketua</a></li>
+    <li>Anggota 1: <a href="">Anggota 1</a></li>
+    <li>Anggota 2: <a href="">Anggota 2</a></li>
+  </ul>
 </ul>
 
 ## Judul Studi Kasus
@@ -29,6 +34,9 @@
 <p>Lorem ipsum sir dolor amet.</p>
 
 ### 4. Abstract
+<p>Lorem ipsum sir dolor amet.</p>
+
+## Tampilan Aplikasi
 <p>Lorem ipsum sir dolor amet.</p>
 
 ## Demo Proyek
